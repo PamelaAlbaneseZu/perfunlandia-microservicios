@@ -1,0 +1,5 @@
+com\api\spring\boot\ventas\controller\VentaController.class
+com\api\spring\boot\ventas\repository\VentaRepository.class
+com\api\spring\boot\ventas\VentaApplication.class
+com\api\spring\boot\ventas\model\Venta.class
+com\api\spring\boot\ventas\service\VentaService.class
